@@ -20,3 +20,17 @@ Analysis of Q1 2025 sales data for an electronics retail business across three s
 - Root cause analysis beyond the brief
 - Manual raw data interrogation
 - Business recommendations with evidence-based reasoning
+
+## Dashboard Screenshots
+
+### Visuals Dashboard
+![Visuals Dashboard](01.-visuals-dashboard.png)
+
+### Business Executive Summary
+![Executive Summary](02.executive-summary-png.png)
+
+### Business Recommendations (Part 1)
+![Business Recommendations 1](03-business-recommendations-1.png)
+
+### Business Recommendations (Part 2)
+![Business Recommendations 2](04-business-recommendations-2.png)
